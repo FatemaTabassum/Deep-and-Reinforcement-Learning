@@ -1,1 +1,2 @@
 
+Update: Use "softmax" as activation function instead of "sigmoid" in the last layer.
