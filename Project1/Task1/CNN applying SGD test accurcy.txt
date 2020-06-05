@@ -1,0 +1,5 @@
+CNN Model Test loss: 0.170747976132966
+CNN Model Test accuracy: 0.9566517472267151
+
+CNN Model Test loss: 0.17956647741681175
+CNN Model Test accuracy: 0.9616342782974243
